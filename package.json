@@ -1,0 +1,21 @@
+{
+  "name": "project-files",
+  "version": "1.0.0",
+  "description": "- Replace the folders \"views\" and \"public\" in your projects with the folders in this zip file.",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js --ignore userServer.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
