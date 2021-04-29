@@ -1,7 +1,16 @@
-- Replace the folders "views" and "public" in your projects with the folders in this zip file.
+# Book Site
 
-- "views" folder contains all the .ejs files written in HTML, "public" folder contains all the images needed for the project.
+## General info
+This project is an online book site
+	
+## Technologies
+Project is created with:
+* nodejs
+* ejs
+* bootstrap
+	
+## Setup
+* To run this project, install it locally using npm
 
-- You won't be able to GET or POST the .ejs files until you configure them correctly in the app.js file.
-
-- You will have to get the videos yourself, rename them according to the names in the .ejs files, and put them in the "public" folder OR you can embed them from youtube or any other website.
+## Video link
+*https://drive.google.com/file/d/1sOEQg1cHrGKJOHTI0I4JXyMdXf4VkKPB/view?usp=sharing
